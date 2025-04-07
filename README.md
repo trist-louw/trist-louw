@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tristan Louw 
-- 👀 I’m interested in programming and Data Science 
-- 🌱 I’m currently learning Mathematics and information systems with python
-- 💞️ I’m looking to collaborate on any python or data related projects, also open to front end development
+- 👀 I’m interested in Programming and Data Science 
+- 🌱 I’m currently learning Mathematics and information systems with Python
+- 💞️ I’m looking to collaborate on any Python or Data related projects, also open to front end development and any cool projects 
 - 📫 Reach me on this account.
 - ⚡ Fun fact: Every 60 seconds a minute passes in Africa 🙃
 
